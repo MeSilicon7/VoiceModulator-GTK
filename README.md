@@ -96,7 +96,9 @@ Run the built application from the MSYS2 terminal:
 
 7. **Enable GPU Enhancement for Real-time Processing**
    - Optimize the application to utilize GPU resources for improved real-time audio processing performance.
-
+   
+8. Some example templates and options for adding templates
+   - Caution: Pre-made Templates can be easily reverse-engineered and may reveal your true voice.
 
 ### Contributing
 
