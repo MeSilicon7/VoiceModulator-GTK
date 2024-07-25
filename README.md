@@ -3,6 +3,8 @@ Real-time voice modulation software with pitch, tempo, timbre control, and **enh
 
 [Read Notes](Notes.md)
 
+If you need more robust system for privacy use [Link](https://github.com/CorentinJ/Real-Time-Voice-Cloning). You need gpu or good cpu for it.
+
 ### Prerequisites
 
 1. **MSYS2**:
