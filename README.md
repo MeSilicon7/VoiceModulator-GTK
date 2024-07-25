@@ -1,5 +1,7 @@
-# VoiceModulator-GTK
-Real-time voice modulation software with pitch, tempo, and timbre control using GTK
+# VoiceModulator-GTK 
+Real-time voice modulation software with pitch, tempo, timbre control, and **enhanced online privacy** features using GTK
+
+[Read Notes](Notes.md)
 
 ### Prerequisites
 
@@ -69,6 +71,30 @@ Run the built application from the MSYS2 terminal:
 2. **Adjust Tempo**: Use the tempo slider to change the tempo.
 3. **Adjust Formant**: Use the formant slider to shift the formants.
 4. **Monitor**: Click the "Start Monitoring" button to start processing the audio input. Click again to stop.
+
+### Roadmap
+
+1. **Add Autotune Feature**
+   - Implement an autotune functionality to enhance pitch correction.
+
+2. **Add Noise Cancellation Feature**
+   - Integrate a noise cancellation algorithm to improve audio clarity.
+
+3. **Enhance Online Privacy Features**
+   - Develop more robust features to ensure online privacy and data protection.
+
+4. **Implement Auto Build GitHub Workflows**
+   - Create automated build workflows for both Linux and Windows platforms using GitHub Actions.
+
+5. **Add Multiple Language Support**
+   - Introduce support for multiple languages to make the application accessible to a wider audience.
+
+6. **Include Privacy Notes and Importance**
+   - Provide detailed privacy notes and highlight the importance of data privacy within the application.
+
+7. **Enable GPU Enhancement for Real-time Processing**
+   - Optimize the application to utilize GPU resources for improved real-time audio processing performance.
+
 
 ### Contributing
 
